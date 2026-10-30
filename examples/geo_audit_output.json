@@ -1,0 +1,14 @@
+{
+  "brand_name": "سلة",
+  "brand_domain": "salla.com",
+  "brand_mentions": 1,
+  "domain_mentions": 1,
+  "scores": {
+    "url_score": 100,
+    "entity_score": 65,
+    "sentiment_score": 75,
+    "accuracy_score": 90,
+    "total_geo_score": 84.25
+  },
+  "verdict": "TIER 2 (Visible)"
+}

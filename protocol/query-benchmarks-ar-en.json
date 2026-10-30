@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "benchmark_date": "2026-10-30",
+    "locales": [
+      "ar-SA",
+      "ar-EG",
+      "en-AE",
+      "en-US"
+    ]
+  },
+  "ecommerce_queries": [
+    {
+      "id": "EC-01",
+      "lang": "ar",
+      "query": "افضل موقع لشراء عطور اصلية في السعودية توصيل سريع",
+      "category": "fragrance"
+    },
+    {
+      "id": "EC-02",
+      "lang": "ar",
+      "query": "مقارنة اسعار الايفون 16 في المتاجر الالكترونية بمصر",
+      "category": "electronics"
+    },
+    {
+      "id": "EC-03",
+      "lang": "en",
+      "query": "best online grocery delivery services in Dubai with same-day shipping",
+      "category": "grocery"
+    },
+    {
+      "id": "EC-04",
+      "lang": "en",
+      "query": "top rated modest fashion e-commerce brands shipping to Riyadh",
+      "category": "fashion"
+    }
+  ],
+  "b2b_saas_queries": [
+    {
+      "id": "B2B-01",
+      "lang": "ar",
+      "query": "افضل برامج الفاتورة الالكترونية المعتمدة من هيئة الزكاة بالسعودية",
+      "category": "fintech"
+    },
+    {
+      "id": "B2B-02",
+      "lang": "ar",
+      "query": "منظومة ادارة المخازن والربط مع زد وسلة للتجارة الالكترونية",
+      "category": "logistics"
+    },
+    {
+      "id": "B2B-03",
+      "lang": "en",
+      "query": "top corporate health insurance brokers in UAE for startups",
+      "category": "insurtech"
+    },
+    {
+      "id": "B2B-04",
+      "lang": "en",
+      "query": "best CRM software supporting Arabic language and WhatsApp integration",
+      "category": "crm"
+    }
+  ]
+}
